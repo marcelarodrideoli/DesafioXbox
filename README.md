@@ -43,8 +43,8 @@ Cores:
 - Strong Grey: #3A3A3A
 
 Fontes:
-- Título: Segoe UI Light, 14
-- Corpo: Aptos Narrow, 12
+- Título: Segoe UI Light, 20
+- Corpo: Aptos Narrow, 32
 
 
 ## 🛠️ Recursos do Excel Utilizados
